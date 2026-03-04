@@ -26,15 +26,15 @@ Technologies Used:
 
 Project Structure:
 
-nullvoid/
-│
-├── app.py
-├── requirements.txt
-├── templates/
-│ └── index.html
-└── static/
-├── style.css
-└── script.js
+app.py
+
+requirements.txt
+
+templates → index.html
+
+static → style.css, script.js
+
+venv (optional)
 
 Installation & Setup:
 
